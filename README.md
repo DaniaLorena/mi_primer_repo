@@ -1,1 +1,7 @@
-# mi_primer_repo
+# mi primer repo
+
+Escribir los retos
+'''
+ejemplo code
+'''
+padao
